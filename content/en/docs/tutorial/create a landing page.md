@@ -1,5 +1,5 @@
 ---
-title : "Create a site"
+title : "Create a Landing Page"
 description: "Learn how to use our CMS"
 lead: ""
 date: 2020-10-06T08:48:23+00:00

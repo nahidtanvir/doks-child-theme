@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
-description: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-lead: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+description: "Xerotic Inc. CMS (Content Management System) was developed on top of Python, Django & Wagtail."
+lead: "Xerotic Inc. CMS (Content Management System) was developed on top of Python, Django & Wagtail. There are currently only four themes are available for frontend. This system also provides REST and Graphql endpoints, so you can develop your own javascript (reactjs, nextjs etc.) frontend as you like."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
@@ -15,43 +15,32 @@ toc: true
 
 ## Get started
 
-There are two main ways to get started with Doks:
-
-### Tutorial
-
-{{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." />}}
-
-Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
+After getting our service we will provide login credentials to the admin panel.
 
 ### Quick Start
 
-{{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." />}}
-
-One page summary of how to start a new Doks project. [Quick Start →]({{< relref "quick-start" >}})
+One page summary of how to start a new site in our CMS. [Quick Start →]({{< relref "quick-start" >}})
 
 ## Go further
 
-Recipes, Reference Guides, Extensions, and Showcase.
+Tutorials, Reference Guides, Showcase and Theme Development.
 
-### Recipes
+### Tutorial
 
-Get instructions on how to accomplish common tasks with Doks. [Recipes →](https://getdoks.org/docs/recipes/project-configuration/)
+Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
+
 
 ### Reference Guides
 
 Learn how to customize Doks to fully make it your own. [Reference Guides →](https://getdoks.org/docs/reference-guides/security/)
 
-### Extensions
-
-Get instructions on how to add even more to Doks. [Extensions →](https://getdoks.org/docs/extensions/breadcrumb-navigation/)
-
 ### Showcase
 
 See what others have build with Doks. [Showcase →](https://getdoks.org/showcase/electric-blocks/)
 
-## Contributing
+### Create Theme
 
-Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
+Check out how to create a theme for our CMS using REST endpoints. [Create Themes →](https://getdoks.org/docs/create-theme/intro/)
 
 ## Help
 
