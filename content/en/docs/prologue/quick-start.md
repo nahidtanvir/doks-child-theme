@@ -1,7 +1,7 @@
 ---
 title: "Quick Start"
-description: "One page summary of how to start a new Doks project."
-lead: "One page summary of how to start a new Doks project."
+description: "One page summary of how to create a simple website using the CMS."
+lead: "One page summary of how to create a simple website using the CMS."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -15,52 +15,24 @@ toc: true
 
 ## Requirements
 
-Doks uses npm to centralize dependency management, making it [easy to update]({{< relref "how-to-update" >}}) resources, build tooling, plugins, and build scripts:
+You will need access to our admin panel and required permissions to create a website.
 
-- Download and install [Node.js](https://nodejs.org/) (it includes npm) for your platform.
+## Start a new website
 
-## Start a new Doks project
+Create a root page, create a new site and add root page, add content to the page and publish the site.
 
-Create a new site, change directories, install dependencies, and start development server.
+### Create a root page
 
-### Create a new site
 
-Doks is available as a child theme, and a starter theme:
 
-- Use the Doks child theme, if you do __not__ plan to customize a lot, and/or need future Doks updates.
-- Use the Doks starter theme, if you plan to customize a lot, and/or do __not__ need future Doks updates.
+### Create a new site and add root page
 
-Not quite sure? Use the Doks child theme.
 
-#### Doks child theme
 
-```bash
-git clone https://github.com/h-enk/doks-child-theme.git my-doks-site
-```
+### Add content to the page
 
-#### Doks starter theme
 
-```bash
-git clone https://github.com/h-enk/doks.git my-doks-site
-```
 
-### Change directories
+### Publish the site
 
-```bash
-cd my-doks-site
-```
-
-### Install dependencies
-
-```bash
-npm install
-```
-
-### Start development server
-
-```bash
-npm run start
-```
-
-Doks will start the Hugo development webserver accessible by default at `http://localhost:1313`. Saved changes will live reload in the browser.
 

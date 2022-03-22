@@ -27,12 +27,19 @@ Tutorials, Reference Guides, Showcase and Theme Development.
 
 ### Tutorial
 
-Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
-
+Step-by-step instructions on how to create and enable various features. [Tutorial →]({{< relref "create a Landing Page" >}})
 
 ### Reference Guides
 
-Learn how to customize Doks to fully make it your own. [Reference Guides →](https://getdoks.org/docs/reference-guides/security/)
+Learn how to customize the CMS to fully make it your own. [Reference Guides →]({{< relref "pages" >}})
+
+### Block Designs
+
+Learn the designs of all available block components. [Reference Guides →]({{< relref "overview" >}})
+
+### Themes
+
+Learn the look of all our themes. [Reference Guides →]({{< relref "all themes" >}})
 
 ### Showcase
 
