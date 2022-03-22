@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "XICMS"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "Modern Headless CMS"
+description = "Xerotic Inc. CMS is fast, secure, and SEO-ready, which you can easily customize according to your requirements."
 
 ## Documentation
 # docsVersion = "0.3"
