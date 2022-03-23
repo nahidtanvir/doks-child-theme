@@ -46,15 +46,10 @@
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
-# [[main]]
-#   name = "Tutorial"
-#   url = "/tutorial/lorem/ipsum/"
-#   weight = 15
-
-[[main]]
-  name = "Blog"
-  url = "/blog/"
-  weight = 20
+#[[main]]
+#  name = "Blog"
+#  url = "/blog/"
+#  weight = 20
 
 [[main]]
   name = "Get Started"
@@ -75,6 +70,18 @@
   identifier = "tutorial"
   url = "/docs/tutorial/create-a-landing-page/"
   parent = "get-started"
+
+[[main]]
+name = "Components"
+weight = 60
+identifier = "components"
+url = "/docs/references/components/"
+
+[[main]]
+name = "Designs"
+weight = 70
+identifier = "designs"
+url = "/docs/block-designs/design-overview/"
 
 [[social]]
   name = "GitHub"
