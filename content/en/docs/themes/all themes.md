@@ -9,6 +9,6 @@ images: []
 menu:
   docs:
     parent: "themes"
-weight: 6
+weight: 500
 toc: true
 ---

@@ -35,7 +35,7 @@ Learn how to customize the CMS to fully make it your own. [Reference Guides →]
 
 ### Block Designs
 
-Learn the designs of all available block components. [Reference Guides →]({{< relref "overview" >}})
+Learn the designs of all available block components. [Block Designs →]({{< relref "design overview" >}})
 
 ### Themes
 
@@ -47,7 +47,7 @@ See what others have build with Doks. [Showcase →](https://getdoks.org/showcas
 
 ### Create Theme
 
-Check out how to create a theme for our CMS using REST endpoints. [Create Themes →](https://getdoks.org/docs/create-theme/intro/)
+Check out how to create a theme for our CMS using REST endpoints. [Create Themes →]({{< relref "theming overview" >}})
 
 ## Help
 
