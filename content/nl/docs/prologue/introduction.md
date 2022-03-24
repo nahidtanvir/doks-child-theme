@@ -21,7 +21,7 @@ There are two main ways to get started with Doks:
 
 {{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." />}}
 
-Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
+Step-by-step instructions on how to start a new Doks project. [Tutorial →]({{< relref "create a Landing Page" >}})
 
 ### Quick Start
 
