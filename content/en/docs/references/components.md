@@ -30,241 +30,287 @@ toc: true
 </details>
 
 
-[//]: # (### Image)
+### Image
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Image]&#40;https://codelinker.net/media/images/docs-image.original.png&#41;)
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-image.original.png">
+</details>
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Embed Code)
+### Embed Code
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Embed Code]&#40;https://codelinker.net/media/images/docs-embed-code.original.png&#41;)
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-embed-code.original.png">
+</details>
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Raw html)
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Raw html]&#40;https://codelinker.net/media/images/docs-raw-html.original.png&#41;)
+### Raw html
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Document)
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-raw-html.original.png">
+</details>
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Document]&#40;https://codelinker.net/media/images/docs-document.original.png&#41;)
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Horizontal Line)
+### Document
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Horizontal Line]&#40;https://codelinker.net/media/images/docs-horizontal-line.original.png&#41;)
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-document.original.png">
+</details>
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Free Space)
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Free Space]&#40;https://codelinker.net/media/images/docs-free-space.original.png&#41;)
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Featured Link)
+### Horizontal Line
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Featured Link]&#40;https://codelinker.net/media/images/docs-featured-link.original.png&#41;)
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-horizontal-line.original.png">
+</details>
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Content Slider)
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Content Slider]&#40;https://codelinker.net/media/images/docs-content-slider.original.png&#41;)
+### Free Space
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Hero Section)
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-free-space.original.png">
+</details>
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Hero Section]&#40;https://codelinker.net/media/images/docs-hero.original.png&#41;)
+### Featured Link
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Left or right image section)
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-featured-link.original.png">
+</details>
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Left or right image section]&#40;https://codelinker.net/media/images/docs-left-or-right-image.original.png&#41;)
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Features section)
+### Content Slider
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Features section]&#40;https://codelinker.net/media/images/docs-features.original.png&#41;)
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-content-slider.original.png">
+</details>
 
-[//]: # ()
-[//]: # ()
-[//]: # (### About Section)
+### Hero Section
 
-[//]: # ()
-[//]: # ()
-[//]: # (![About Section]&#40;https://codelinker.net/media/images/docs-about.original.png&#41;)
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-hero.original.png">
+</details>
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Service Section)
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Service Section]&#40;https://codelinker.net/media/images/docs-service-section.original.png&#41;)
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Counts Block)
+### Left or right image section
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Counts Block]&#40;https://codelinker.net/media/images/docs-heading.original.png&#41;)
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-left-or-right-image.original.png">
+</details>
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Clients Section)
+### Features section
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Clients Section]&#40;https://codelinker.net/media/images/docs-heading.original.png&#41;)
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-fetures-section.original.png">
+</details>
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Testimonials Section)
+### About Section
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Testimonials Section]&#40;https://codelinker.net/media/images/docs-heading.original.png&#41;)
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-about.original.png">
+</details>
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Members Section)
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Members Section]&#40;https://codelinker.net/media/images/docs-heading.original.png&#41;)
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Skill Section)
+### Service Section
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Skill Section]&#40;https://codelinker.net/media/images/docs-heading.original.png&#41;)
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-service-section.original.png">
+</details>
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Package Pricing Section)
+### Counts Block
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Package Pricing Section]&#40;https://codelinker.net/media/images/docs-heading.original.png&#41;)
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-counts.original.png">
+</details>
 
-[//]: # ()
-[//]: # ()
-[//]: # (### FAQ section)
 
-[//]: # ()
-[//]: # ()
-[//]: # (![FAQ section]&#40;https://codelinker.net/media/images/docs-heading.original.png&#41;)
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Portfolio section)
+### Clients Section
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Portfolio section]&#40;https://codelinker.net/media/images/docs-heading.original.png&#41;)
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-clients.original.png">
+</details>
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Gallery section)
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Gallery section]&#40;https://codelinker.net/media/images/docs-heading.original.png&#41;)
+### Testimonials Section
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Two Columns)
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Two Columns]&#40;https://codelinker.net/media/images/docs-heading.original.png&#41;)
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Three Columns)
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-testimonials.original.png">
+</details>
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Three Columns]&#40;https://codelinker.net/media/images/docs-heading.original.png&#41;)
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Four Columns)
+### Members Section
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Four Columns]&#40;https://codelinker.net/media/images/docs-heading.original.png&#41;)
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-members.original.png">
+</details>
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Embed Video)
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Embed Video]&#40;https://codelinker.net/media/images/docs-heading.original.png&#41;)
 
-[//]: # ()
-[//]: # ()
+### Skill Section
+
+
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-skill.original.png">
+  <br>
+  <img src="https://codelinker.net/media/images/docs-skill-inner.original.png">
+</details>
+
+
+### Package Pricing Section
+
+
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-package-pricing.original.png">
+</details>
+
+
+### FAQ section
+
+
+
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-faq.original.png">
+</details>
+
+
+
+### Portfolio section
+
+
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-portfolio.original.png">
+</details>
+
+
+### Gallery section
+
+
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-gallery.original.png">
+</details>
+
+
+### Two Columns
+
+
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-two-columns.original.png">
+</details>
+
+
+### Three Columns
+
+
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-three-columns.original.png">
+</details>
+
+
+### Four Columns
+
+
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-four-columns.original.png">
+</details>
+
+### Embed Video
+
+
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-embed-video.original.png">
+</details>
+
+
+
 [//]: # (### Featured Post)
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Featured Post]&#40;https://codelinker.net/media/images/docs-heading.original.png&#41;)
+[//]: # (<details>)
+[//]: # (  <summary>Admin Panel</summary>)
+[//]: # (  <br>)
+[//]: # (  <img src="https://codelinker.net/media/images/docs-featured-post.original.png">)
+[//]: # (</details>)
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Featured Video)
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Featured Video]&#40;https://codelinker.net/media/images/docs-heading.original.png&#41;)
+### Featured Video
 
-[//]: # ()
-[//]: # ()
-[//]: # (### Youtube Playlist)
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Youtube Playlist]&#40;https://codelinker.net/media/images/docs-heading.original.png&#41;)
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-featured-video.original.png">
+</details>
 
-[//]: # ()
-[//]: # ()
+
+### Youtube Playlist
+
+
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="https://codelinker.net/media/images/docs-youtube-playlist.original.png">
+</details>
+
+
 [//]: # (### Render blog posts)
 
-[//]: # ()
-[//]: # ()
-[//]: # (![Render blog posts]&#40;https://codelinker.net/media/images/docs-heading.original.png&#41;)
-
+[//]: # (<details>)
+[//]: # (  <summary>Admin Panel</summary>)
+[//]: # (  <br>)
+[//]: # (  <img src="https://codelinker.net/media/images/docs-render-blog-posts.original.png">)
+[//]: # (</details>)
