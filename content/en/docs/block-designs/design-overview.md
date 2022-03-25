@@ -13,8 +13,12 @@ weight: 400
 toc: true
 ---
 
-dklasjdklas jkldjaskljd klasjdkljaslkd
-dasdj askljdklas
 
+## Design Categories
 
-dasdjaskl jdklasj kl
+There are four types or designs in our CMS for various types of pages.
+
+### Page builders
+
+Learn one of the designs for each page builder components. [Page builders →]({{< relref "page-builders" >}})
+
