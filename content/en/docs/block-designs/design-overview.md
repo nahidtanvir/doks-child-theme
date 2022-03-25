@@ -32,4 +32,4 @@ Learn all the ecommerce product render designs. [Ecommerce products →]({{< rel
 
 ### Poll presentations
 
-Learn all the output designs of poll/vote/survey such as bar chart, pie chart, line chart,etc. [Poll presentations →]({{< relref "poll-presentations" >}})
+Learn all the output designs of poll/vote/survey such as bar chart, pie chart, line chart, etc. [Poll presentations →]({{< relref "poll-presentations" >}})
