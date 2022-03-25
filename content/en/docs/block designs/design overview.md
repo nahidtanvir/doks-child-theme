@@ -31,4 +31,4 @@ Learn all the ecommerce product render designs.
 
 ### Poll presentations
 
-Learn all the output designs of poll/vote/survey such as bar chart, pie chart, line chart,etc.
+Learn all the output designs of poll, vote, survey such as bar chart, pie chart, line chart,etc.
