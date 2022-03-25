@@ -29,3 +29,7 @@ Learn all the blog post render designs such as breaking news, news cover, slider
 ### Ecommerce products
 
 Learn all the ecommerce product render designs. [Ecommerce products →]({{< relref "ecommerce-products" >}})
+
+### Poll presentations
+
+Learn all the output designs of poll/vote/survey such as bar chart, pie chart, line chart,etc. [Poll presentations →]({{< relref "poll-presentations" >}})
