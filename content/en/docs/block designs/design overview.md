@@ -19,16 +19,16 @@ There are four types or designs in our CMS for various types of pages.
 
 ### Page builders
 
-Learn one of the designs for each page builder components. [Page builders →]({{< relref "page builders" >}})
+Learn one of the designs for each page builder components.
 
 ### Blog posts
 
-Learn all the blog post render designs such as breaking news, news cover, slider, etc. [Blog posts →]({{< relref "blog posts" >}})
+Learn all the blog post render designs such as breaking news, news cover, slider, etc.
 
 ### Ecommerce products
 
-Learn all the ecommerce product render designs. [Ecommerce products →]({{< relref "ecommerce products" >}})
+Learn all the ecommerce product render designs.
 
 ### Poll presentations
 
-Learn all the output designs of poll/vote/survey such as bar chart, pie chart, line chart,etc. [Poll presentations →]({{< relref "poll presentations" >}})
+Learn all the output designs of poll/vote/survey such as bar chart, pie chart, line chart,etc.
