@@ -39,7 +39,7 @@ Learn the designs of all available block components. [Block Designs →]({{< rel
 
 ### Themes
 
-Learn the look of all our themes. [Reference Guides →]({{< relref "all themes" >}})
+Learn the look of all our themes. [Themes →]({{< relref "all themes" >}})
 
 ### Showcase
 

@@ -19,8 +19,8 @@
 [[docs]]
   name = "block designs"
   weight = 40
-  identifier = "designs"
-  url = "/docs/designs/"
+  identifier = "block-designs"
+  url = "/docs/block-designs/"
 
 [[docs]]
   name = "themes"
