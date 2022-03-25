@@ -35,7 +35,7 @@ Learn how to customize the CMS to fully make it your own. [Reference Guides →]
 
 ### Block Designs
 
-Learn the designs of all available block components. [Block Designs →]({{< relref "design overview" >}})
+Learn the designs of all available block components. [Block Designs →]({{< relref "design-overview" >}})
 
 ### Themes
 

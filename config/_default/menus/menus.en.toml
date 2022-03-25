@@ -80,7 +80,7 @@ url = "/docs/references/components/"
 [[main]]
 name = "Designs"
 weight = 70
-identifier = "designs"
+identifier = "design-overview"
 url = "/docs/block-designs/design-overview/"
 
 [[social]]
