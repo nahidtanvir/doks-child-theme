@@ -32,4 +32,4 @@ Learn all the ecommerce product render designs. [Ecommerce products →]({{< rel
 
 ### Poll presentations
 
-Learn all the poll result designs. [Ecommerce products →]({{< relref "poll-presentations" >}})
+Learn all the poll result designs. [Poll presentations →]({{< relref "poll-presentations" >}})
