@@ -1,5 +1,5 @@
 ---
-title : "Ecommerce products"
+title : "Blog posts"
 description: "Learn how to use our CMS"
 lead: ""
 date: 2020-10-06T08:48:23+00:00
@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "designs"
-weight: 430
+    parent: "block-designs"
+weight: 420
 toc: true
 ---

@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "designs"
+    parent: "block-designs"
 weight: 440
 toc: true
 ---

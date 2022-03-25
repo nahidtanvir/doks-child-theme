@@ -27,7 +27,7 @@ Tutorials, Reference Guides, Showcase and Theme Development.
 
 ### Tutorial
 
-Step-by-step instructions on how to create and enable various features. [Tutorial →]({{< relref "create a Landing Page" >}})
+Step-by-step instructions on how to create and enable various features. [Tutorial →]({{< relref "create-a-Landing-Page" >}})
 
 ### Reference Guides
 
@@ -39,15 +39,12 @@ Learn the designs of all available block components. [Block Designs →]({{< rel
 
 ### Themes
 
-Learn the look of all our themes. [Themes →]({{< relref "all themes" >}})
+Learn the look of all our themes. [Themes →]({{< relref "all-themes" >}})
 
-### Showcase
-
-See what others have build with Doks. [Showcase →](https://getdoks.org/showcase/electric-blocks/)
 
 ### Create Theme
 
-Check out how to create a theme for our CMS using REST endpoints. [Create Themes →]({{< relref "theming overview" >}})
+Check out how to create a theme for our CMS using REST endpoints. [Create Themes →]({{< relref "theming-overview" >}})
 
 ## Help
 
