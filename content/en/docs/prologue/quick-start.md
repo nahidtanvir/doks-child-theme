@@ -17,6 +17,17 @@ toc: true
 
 You will need access to our admin panel and required permissions to create a website.
 
+## Modify the existing website
+
+Go to pages > root page, click edit and start adding content.
+
+### Add content to the page
+
+
+### Publish the page
+
+
+
 ## Start a new website
 
 Create a root page, create a new site and add root page, add content to the page and publish the site.
