@@ -22,3 +22,10 @@ There are four types or designs in our CMS for various types of pages.
 
 Learn one of the designs for each page builder components. [Page builders →]({{< relref "page-builders" >}})
 
+### Blog posts
+
+Learn all the blog post render designs such as breaking news, news cover, slider, etc. [Blog posts →]({{< relref "blog-posts" >}})
+
+### Ecommerce products
+
+Learn all the ecommerce product render designs. [Ecommerce products →]({{< relref "ecommerce-products" >}})
