@@ -13,22 +13,31 @@ weight: 400
 toc: true
 ---
 
-## Design Categories
+[//]: # (## Design Categories)
 
-There are four types or designs in our CMS for various types of pages.
+[//]: # ()
+[//]: # (There are four types or designs in our CMS for various types of pages.)
 
-### Page builders
+[//]: # ()
+[//]: # (### Page builders)
 
-Learn one of the designs for each page builder components.
+[//]: # ()
+[//]: # (Learn one of the designs for each page builder components. [Page builders →]&#40;{{< relref "page builders" >}}&#41;)
 
-### Blog posts
+[//]: # ()
+[//]: # (### Blog posts)
 
-Learn all the blog post render designs such as breaking news, news cover, slider, etc.
+[//]: # ()
+[//]: # (Learn all the blog post render designs such as breaking news, news cover, slider, etc. [Blog posts →]&#40;{{< relref "blog posts" >}}&#41;)
 
-### Ecommerce products
+[//]: # ()
+[//]: # (### Ecommerce products)
 
-Learn all the ecommerce product render designs.
+[//]: # ()
+[//]: # (Learn all the ecommerce product render designs. [Ecommerce products →]&#40;{{< relref "ecommerce products" >}}&#41;)
 
-### Poll presentations
+[//]: # ()
+[//]: # (### Poll presentations)
 
-Learn all the output designs of poll, vote, survey such as bar chart, pie chart, line chart,etc.
+[//]: # ()
+[//]: # (Learn all the output designs of poll/vote/survey such as bar chart, pie chart, line chart,etc. [Poll presentations →]&#40;{{< relref "poll presentations" >}}&#41;)
