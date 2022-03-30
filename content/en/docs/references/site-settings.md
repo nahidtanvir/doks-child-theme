@@ -1,5 +1,5 @@
 ---
-title : "Site frontend theme"
+title : "Site Settings"
 description: "Learn how to use our CMS"
 lead: ""
 date: 2020-10-06T08:48:23+00:00

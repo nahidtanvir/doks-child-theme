@@ -12,3 +12,16 @@ menu:
 weight: 500
 toc: true
 ---
+
+<table>
+  <tr>
+    <th><h2>Default Theme</h2></th>
+    <th><h2>Theme One</h2></th>
+    <th><h2>Theme Two</h2></th>
+  </tr>
+  <tr>
+    <td><a href="https://default-theme.codelinker.net/"><img src="/img/themes/default-theme.png"></a></td>
+    <td><a href="https://theme-one.codelinker.net/"><img src="/img/themes/theme-one.png"></a></td>
+    <td><a href="https://theme-two.codelinker.net/"><img src="/img/themes/theme-two.png"></a></td>
+  </tr>
+</table>
