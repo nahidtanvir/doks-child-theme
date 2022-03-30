@@ -419,13 +419,18 @@ toc: true
 
 
 
-[//]: # (### Featured Post)
+### Featured Post
 
-[//]: # (<details>)
-[//]: # (  <summary>Admin Panel</summary>)
-[//]: # (  <br>)
-[//]: # (  <img src="/img/component-admin/docs-featured-post.png">)
-[//]: # (</details>)
+<details>
+  <summary>Design</summary>
+  <br>
+  <img src="/img/component-design/block-designs-featured-post.png">
+</details>
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="/img/component-admin/docs-featured-post.png">
+</details>
 
 
 ### Featured Video
@@ -458,10 +463,20 @@ toc: true
 </details>
 
 
-[//]: # (### Render blog posts)
+### Render blog posts
 
-[//]: # (<details>)
-[//]: # (  <summary>Admin Panel</summary>)
-[//]: # (  <br>)
-[//]: # (  <img src="/img/component-admin/docs-render-blog-posts.png">)
-[//]: # (</details>)
+<details>
+  <summary>Design</summary>
+  <br>
+  <img src="/img/component-design/block-designs-render-blog-posts.png">
+</details>
+<br>
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="/img/component-admin/docs-render-blog-posts.png">
+  <p>Use filters to select posts</p>
+  <img src="/img/component-admin/docs-render-blog-posts-inner-1.png">
+  <p>Select posts manually</p>
+  <img src="/img/component-admin/docs-render-blog-posts-inner-2.png">
+</details>

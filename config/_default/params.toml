@@ -10,7 +10,7 @@ description = "Xerotic Inc. CMS is fast, secure, and SEO-ready, which you can ea
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["doks.png"]
+images = ["xicms.png"]
 ogLocale = "en_US"
 domainTLD = "doks.netlify.app"
 titleHome = "Doks Theme"

@@ -15,7 +15,7 @@ toc: true
 
 ## Hyas?
 
-Doks is a [Hyas theme](https://gethyas.com/themes/) build by the creator of Hyas.
+XICMS is a [Hyas theme](https://gethyas.com/themes/) build by the creator of Hyas.
 
 ## Footer notice?
 
@@ -39,7 +39,7 @@ Create a topic:
 
 - [Netlify Community](https://community.netlify.com/)
 - [Hugo Forums](https://discourse.gohugo.io/)
-- [Doks Discussions](https://github.com/h-enk/doks/discussions)
+- [XICMS Discussions](https://github.com/h-enk/XICMS/discussions)
 
 ## Contact the creator?
 
@@ -47,4 +47,4 @@ Send `h-enk` a message:
 
 - [Netlify Community](https://community.netlify.com/)
 - [Hugo Forums](https://discourse.gohugo.io/)
-- [Doks Discussions](https://github.com/h-enk/doks/discussions)
+- [XICMS Discussions](https://github.com/h-enk/XICMS/discussions)
