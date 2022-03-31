@@ -27,3 +27,22 @@ Each page has the following common components.
 
 A page can have its own components mentioned above or inherit them from the site. To keep it simple lets create
 each of the components and add them to the entire site. After that we will create the main contents of the page.
+
+### Top Menu
+
+
+### Main Menu
+
+
+### Footer Menu
+
+
+### Sidebar
+
+
+## Add Content
+
+
+## Setup SEO
+
+
