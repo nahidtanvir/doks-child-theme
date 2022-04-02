@@ -22,7 +22,6 @@ information, marketing promotions and email. The most common goal of the page is
 Each page has the following common components.
 * Top Menu
 * Main Menu
-* Sidebar
 * Footer Menu
 
 A page can have its own components mentioned above or inherit them from the site. To keep it simple lets create
@@ -37,11 +36,12 @@ each of the components and add them to the entire site. After that we will creat
 ### Footer Menu
 
 
-### Sidebar
-
-
 ## Add Content
 
+Let us follow a prebuilt design to add content to the page. Here is the sample we are going to follow to create the page.
+However we are going to create only a few of the components to keep it short.
+
+[Sample Page →](https://bootstrapmade.com/demo/OnePage/)
 
 ### Hero Section
 
@@ -52,10 +52,16 @@ each of the components and add them to the entire site. After that we will creat
 ### About Section
 
 
-### Pricing Section
+### Count Section
+
+
+### Clients Section
 
 
 ### Testimonials Section
+
+
+### FAQ Section
 
 
 ## Setup SEO
