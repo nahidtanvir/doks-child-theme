@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "tutorial"
-weight: 200
+weight: 210
 toc: true
 ---
 ## Overview
@@ -17,32 +17,8 @@ toc: true
 Landing page is typically the page from where one starts browsing a website. It contains all the key
 information, marketing promotions and email. The most common goal of the page is lead generation.
 
-## Page Structure
+## Brand Introduction
 
-Each page has the following common components.
-* Top Menu
-* Main Menu
-* Sidebar
-* Footer Menu
+## Trust Indication
 
-A page can have its own components mentioned above or inherit them from the site. To keep it simple lets create
-each of the components and add them to the entire site. After that we will create the main contents of the page.
-
-### Top Menu
-
-
-### Main Menu
-
-
-### Footer Menu
-
-
-### Sidebar
-
-
-## Add Content
-
-
-## Setup SEO
-
-
+## The Offer
