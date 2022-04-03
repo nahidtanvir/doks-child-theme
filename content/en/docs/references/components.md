@@ -13,6 +13,96 @@ weight: 330
 toc: true
 ---
 
+## Top Menu
+
+<details>
+  <summary>Design</summary>
+  <br>
+  <img src="/img/component-design/topmenu-design.png">
+</details>
+<br>
+<details>
+  <summary>Admin Panel</summary>
+  <img src="/img/component-admin/docs-topmenu.png">
+  <hr>
+  <details>
+    <summary>Contact Info</summary>
+    <img src="/img/component-admin/docs-topmenu-contact-info.png">
+    <hr>
+  </details>
+  <details>
+    <summary>Address</summary>
+    <img src="/img/component-admin/docs-topmenu-address-snippets.png">
+    <hr>
+  </details>
+  <details>
+    <summary>Top Menu Link</summary>
+    <img src="/img/component-admin/docs-topmenu-link.png">
+    <hr>
+  </details>
+  <details>
+    <summary>Today's Date</summary>
+    <img src="/img/component-admin/docs-topmenu-date.png">
+    <hr>
+  </details>
+</details>
+
+## Main Menu
+
+<details>
+  <summary>Design</summary>
+  <br>
+  <img src="/img/component-design/mainmenu-design.png">
+</details>
+<br>
+<details>
+  <summary>Admin Panel</summary>
+  <br>
+  <img src="/img/component-admin/docs-mainmenu.png">
+  <br>
+</details>
+
+
+## Footer Menu
+
+<details>
+  <summary>Design</summary>
+  <br>
+  <img src="/img/component-design/footermenu-design.png">
+</details>
+<br>
+<details>
+  <summary>Admin Panel</summary>
+  <img src="/img/component-admin/docs-footermenu.png">
+  <hr>
+  <details>
+    <summary>Footer link</summary>
+    <img src="/img/component-admin/docs-footermenu-link.png">
+    <hr>
+  </details>
+  <details>
+    <summary>Footer About</summary>
+    <img src="/img/component-admin/docs-footermenu-about.png">
+    <hr>
+  </details>
+  <details>
+    <summary>Today's Date</summary>
+    <img src="/img/component-admin/docs-topmenu-date.png">
+    <hr>
+  </details>
+</details>
+
+## Sidebar
+
+<details>
+    <summary>Admin Panel</summary>
+    <img src="/img/component-admin/docs-sidebar.png">
+    <hr>
+  </details>
+
+## Sections
+
+
 ### Heading
 <details>
   <summary>Design</summary>
