@@ -48,4 +48,4 @@ Check out how to create a theme for our CMS using REST endpoints. [Create Themes
 
 ## Help
 
-Get help on XICMS. [Help →]({{< relref "how-to-update" >}})
+Get help on XICMS. [Help →]({{< relref "troubleshooting" >}})
