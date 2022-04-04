@@ -12,3 +12,6 @@ menu:
 weight: 700
 toc: true
 ---
+
+You can use any frontend library or framework to create theme for the CMS. We provide all api endpoints required to make
+a theme. However, we provide template for a few frameworks to make to process easier.
