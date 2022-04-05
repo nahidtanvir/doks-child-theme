@@ -13,18 +13,14 @@ weight: 600
 toc: true
 ---
 
-## Problems updating npm packages
+## Page not updating after editing components from admin panel.
 
-Delete the `./node_modules` folder, and run again:
+* Use separate browsers to open admin panel and the live page. Firefox is preferred for live page.
+* Use incognito/private window for both of them.
+* Clear cache from `setting > cache > clear cache`.
+* Reload browser tab using `ctrl+f5`.
 
-```bash
-npm install
-```
+## Hot reload not updating page during theme development.
 
-## Problems with cache
-
-Delete the temporary directories:
-
-```bash
-npm run clean
-```
+* Restart the project
+* Reload browser tab using `ctrl+f5`.

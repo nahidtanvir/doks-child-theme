@@ -13,13 +13,10 @@ weight: 610
 toc: true
 ---
 
-## Hyas?
+## XICMS?
 
-XICMS is a [Hyas theme](https://gethyas.com/themes/) build by the creator of Hyas.
+XICMS is a content management system build on top of wagtail cms. It can use both django template and rest api for frontend.
 
-## Footer notice?
-
-Please keep it in place.
 
 ## Keyboard shortcuts for search?
 
@@ -43,8 +40,6 @@ Create a topic:
 
 ## Contact the creator?
 
-Send `h-enk` a message:
+Send a message:
 
-- [Netlify Community](https://community.netlify.com/)
-- [Hugo Forums](https://discourse.gohugo.io/)
-- [XICMS Discussions](https://github.com/h-enk/XICMS/discussions)
+
