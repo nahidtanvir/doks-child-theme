@@ -1,7 +1,7 @@
 ---
-title : "components"
+title : "Components"
 description: "Learn how to use our CMS"
-lead: ""
+lead: "Learn the design and structure of all the components"
 date: 2020-10-06T08:48:23+00:00
 lastmod: 2020-10-06T08:48:23+00:00
 draft: false
@@ -13,16 +13,15 @@ weight: 330
 toc: true
 ---
 
+For each component there are three things given below. They are design, structure and a screenshot of the admin panel form.
+
 ## Top Menu
 
-<details>
-  <summary>Design</summary>
-  <br>
-  <img src="/img/component-design/topmenu-design.png">
-</details>
-<br>
-<details>
-  <summary>Admin Panel</summary>
+#### Design
+
+<img src="/img/component-design/topmenu-design.png">
+
+#### Tree Structure
 
 ```
 Top Menu
@@ -63,42 +62,37 @@ Top Menu
 │   │   │   Date Format
 │   │   │   Date Language
 ```
-  <img src="/img/component-admin/docs-topmenu.png">
-  <hr>
-  <details>
-    <summary>Contact Info</summary>
-    <img src="/img/component-admin/docs-topmenu-contact-info.png">
-    <hr>
-  </details>
-  <details>
-    <summary>Address</summary>
-    <img src="/img/component-admin/docs-topmenu-address-snippets.png">
-    <hr>
-  </details>
-  <details>
-    <summary>Top Menu Link</summary>
-    <img src="/img/component-admin/docs-topmenu-link.png">
-    <hr>
-  </details>
-  <details>
-    <summary>Social LInks</summary>
-    <img src="/img/component-admin/docs-topmenu-social.png">
-    <hr>
-  </details>
-  <details>
-    <summary>Today's Date</summary>
-    <img src="/img/component-admin/docs-topmenu-date.png">
-    <hr>
-  </details>
+#### Admin Panel
+<img src="/img/component-admin/docs-topmenu.png">
+<details>
+  <summary>Contact Info</summary>
+  <img src="/img/component-admin/docs-topmenu-contact-info.png">
 </details>
+<details>
+  <summary>Address</summary>
+  <img src="/img/component-admin/docs-topmenu-address-snippets.png">
+</details>
+<details>
+  <summary>Top Menu Link</summary>
+  <img src="/img/component-admin/docs-topmenu-link.png">
+</details>
+<details>
+  <summary>Social LInks</summary>
+  <img src="/img/component-admin/docs-topmenu-social.png">
+</details>
+<details>
+  <summary>Today's Date</summary>
+  <img src="/img/component-admin/docs-topmenu-date.png">
+</details>
+
+<hr>
 
 ## Main Menu
 
-<details>
-  <summary>Design</summary>
-  <br>
-  <img src="/img/component-design/mainmenu-design.png">
-</details>
+#### Design
+<img src="/img/component-design/mainmenu-design.png">
+
+#### Tree Structure
 
 ```
 Main Menu
@@ -122,50 +116,84 @@ Main Menu
 │       │   Blog Category
 │       │   Blog Tag
 ```
-<details>
-  <summary>Admin Panel</summary>
-  <br>
-  <img src="/img/component-admin/docs-mainmenu.png">
-  <br>
-</details>
+#### Admin Panel
+<img src="/img/component-admin/docs-mainmenu.png">
 
+<hr>
 
 ## Footer Menu
 
-<details>
-  <summary>Design</summary>
-  <br>
-  <img src="/img/component-design/footermenu-design.png">
-</details>
+#### Design
+<img src="/img/component-design/footermenu-design.png">
+
+#### Tree Structure
+
+```
+Footer Menu
+│   Title
+│   Is Active?
+│   Full Width?
+│
+└───Menu Items
+│   │
+│   └───Footer Link
+│   │   │   Title
+│   │   │   Footer Links
+│   │   │   Social Lins
+│   │
+│   └───Footer About
+│   │   │   Title
+│   │   │   Content
+│   │   │   Social Lins
+│   │
+│   └───Today's Date
+│   │   │   Date Format
+│   │   │   Date Language
+```
+
+#### Admin Panel
+<img src="/img/component-admin/docs-footermenu.png">
 <br>
 <details>
-  <summary>Admin Panel</summary>
-  <img src="/img/component-admin/docs-footermenu.png">
-  <hr>
-  <details>
-    <summary>Footer link</summary>
-    <img src="/img/component-admin/docs-footermenu-link.png">
-    <hr>
-  </details>
-  <details>
-    <summary>Footer About</summary>
-    <img src="/img/component-admin/docs-footermenu-about.png">
-    <hr>
-  </details>
-  <details>
-    <summary>Today's Date</summary>
-    <img src="/img/component-admin/docs-topmenu-date.png">
-    <hr>
-  </details>
+  <summary>Footer link</summary>
+  <img src="/img/component-admin/docs-footermenu-link.png">
+</details>
+<details>
+  <summary>Footer About</summary>
+  <img src="/img/component-admin/docs-footermenu-about.png">
+</details>
+<details>
+  <summary>Today's Date</summary>
+  <img src="/img/component-admin/docs-topmenu-date.png">
 </details>
 
-## Sidebar
+<hr>
 
-<details>
-    <summary>Admin Panel</summary>
-    <img src="/img/component-admin/docs-sidebar.png">
-    <hr>
-  </details>
+## Sidebar
+```
+Sidebar
+│   Title
+│   Is Active?
+│   Sidebar position
+│
+└───Sidebar Items
+    │   Sidebar About Text
+    │   Today's Date
+    │   Image
+    │   Embed Video
+    │   Free Space
+    │   Embed Code
+    │   Document
+    │   Blog Category
+    │   Blog Tags
+    │   Select Posts
+    │   Blog posts filter
+```
+#### Admin Panel
+<img src="/img/component-admin/docs-sidebar.png">
+
+<hr>
+<hr>
 
 ## Sections
 
@@ -184,6 +212,8 @@ Main Menu
   <br>
 </details>
 
+<hr>
+
 ### Paragraph
 
 <details>
@@ -199,6 +229,8 @@ Main Menu
 </details>
 
 
+<hr>
+
 ### Image
 
 <details>
@@ -212,6 +244,8 @@ Main Menu
   <br>
   <img src="/img/component-admin/docs-image.png">
 </details>
+
+<hr>
 
 ### Embed Code
 
@@ -228,6 +262,8 @@ Main Menu
 </details>
 
 
+<hr>
+
 ### Raw html
 
 <details>
@@ -242,6 +278,8 @@ Main Menu
   <img src="/img/component-admin/docs-raw-html.png">
 </details>
 
+
+<hr>
 
 ### Document
 
@@ -259,6 +297,8 @@ Main Menu
 
 
 
+<hr>
+
 ### Horizontal Line
 
 <details>
@@ -274,6 +314,8 @@ Main Menu
 </details>
 
 
+<hr>
+
 ### Free Space
 
 <details>
@@ -287,6 +329,8 @@ Main Menu
   <br>
   <img src="/img/component-admin/docs-free-space.png">
 </details>
+
+<hr>
 
 ### Featured Link
 
@@ -303,6 +347,8 @@ Main Menu
 </details>
 
 
+<hr>
+
 ### Content Slider
 
 <details>
@@ -316,6 +362,8 @@ Main Menu
   <br>
   <img src="/img/component-admin/docs-content-slider.png">
 </details>
+
+<hr>
 
 ### Hero Section
 
@@ -332,6 +380,8 @@ Main Menu
 </details>
 
 
+<hr>
+
 ### Left or right image section
 
 <details>
@@ -346,6 +396,8 @@ Main Menu
   <img src="/img/component-admin/docs-left-or-right-image.png">
 </details>
 
+<hr>
+
 ### Features section
 
 <details>
@@ -359,6 +411,8 @@ Main Menu
   <br>
   <img src="/img/component-admin/docs-fetures-section.png">
 </details>
+
+<hr>
 
 ### About Section
 
@@ -376,6 +430,8 @@ Main Menu
 
 
 
+<hr>
+
 ### Service Section
 
 <details>
@@ -389,6 +445,8 @@ Main Menu
   <br>
   <img src="/img/component-admin/docs-service-section.png">
 </details>
+
+<hr>
 
 ### Counts Block
 
@@ -405,6 +463,8 @@ Main Menu
 </details>
 
 
+<hr>
+
 ### Clients Section
 
 <details>
@@ -419,6 +479,8 @@ Main Menu
   <img src="/img/component-admin/docs-clients.png">
 </details>
 
+
+<hr>
 
 ### Testimonials Section
 
@@ -436,6 +498,8 @@ Main Menu
 </details>
 
 
+<hr>
+
 ### Members Section
 
 <details>
@@ -451,6 +515,8 @@ Main Menu
 </details>
 
 
+
+<hr>
 
 ### Skill Section
 
@@ -469,6 +535,8 @@ Main Menu
 </details>
 
 
+<hr>
+
 ### Package Pricing Section
 
 <details>
@@ -483,6 +551,8 @@ Main Menu
   <img src="/img/component-admin/docs-package-pricing.png">
 </details>
 
+
+<hr>
 
 ### FAQ section
 
@@ -501,6 +571,8 @@ Main Menu
 
 
 
+<hr>
+
 ### Portfolio section
 
 <details>
@@ -515,6 +587,8 @@ Main Menu
   <img src="/img/component-admin/docs-portfolio.png">
 </details>
 
+
+<hr>
 
 ### Gallery section
 
@@ -531,6 +605,8 @@ Main Menu
 </details>
 
 
+<hr>
+
 ### Two Columns
 
 
@@ -540,6 +616,8 @@ Main Menu
   <img src="/img/component-admin/docs-two-columns.png">
 </details>
 
+
+<hr>
 
 ### Three Columns
 
@@ -551,6 +629,8 @@ Main Menu
 </details>
 
 
+<hr>
+
 ### Four Columns
 
 
@@ -559,6 +639,8 @@ Main Menu
   <br>
   <img src="/img/component-admin/docs-four-columns.png">
 </details>
+
+<hr>
 
 ### Embed Video
 
@@ -576,6 +658,8 @@ Main Menu
 
 
 
+<hr>
+
 ### Featured Post
 
 <details>
@@ -589,6 +673,8 @@ Main Menu
   <img src="/img/component-admin/docs-featured-post.png">
 </details>
 
+
+<hr>
 
 ### Featured Video
 
@@ -605,6 +691,8 @@ Main Menu
 </details>
 
 
+<hr>
+
 ### Youtube Playlist
 
 <details>
@@ -619,6 +707,8 @@ Main Menu
   <img src="/img/component-admin/docs-youtube-playlist.png">
 </details>
 
+
+<hr>
 
 ### Render blog posts
 
