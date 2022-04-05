@@ -23,6 +23,46 @@ toc: true
 <br>
 <details>
   <summary>Admin Panel</summary>
+
+```
+Top Menu
+│   Title
+│   Is Active?
+│   Full Width?
+│
+└───Menu Items
+│   │
+│   └───Contact Info
+│   │   │   Email
+│   │   │   Phone Number
+│   │   │   Location
+│   │
+│   └───Address Book
+│   │   │   Address Title
+│   │   │   Email
+│   │   │   IP Address
+│   │   │   Phone Number
+│   │   │   Address
+│   │   │   City
+│   │   │   State
+│   │   │   Country
+│   │
+│   └───Top Menu Link
+│   │   │   Blog Category
+│   │   │   Blog Tag
+│   │   │   Site Pages
+│   │   │   Custom Link
+│   │   │   User Account Lins
+│   │
+│   └───Social Links
+│   │   │   Social Link
+│   │   │   Link Text
+│   │   │   Icon Picker
+│   │
+│   └───Today's Date
+│   │   │   Date Format
+│   │   │   Date Language
+```
   <img src="/img/component-admin/docs-topmenu.png">
   <hr>
   <details>
@@ -41,6 +81,11 @@ toc: true
     <hr>
   </details>
   <details>
+    <summary>Social LInks</summary>
+    <img src="/img/component-admin/docs-topmenu-social.png">
+    <hr>
+  </details>
+  <details>
     <summary>Today's Date</summary>
     <img src="/img/component-admin/docs-topmenu-date.png">
     <hr>
@@ -54,7 +99,29 @@ toc: true
   <br>
   <img src="/img/component-design/mainmenu-design.png">
 </details>
-<br>
+
+```
+Main Menu
+│   Title
+│   Is Active?
+│   Full Width?
+│
+└───Menu Items
+│   │
+│   └───Level One Menu
+│   │   │   Site Pages
+│   │   │   Custom Link
+│   │   │   User Account Lins
+│   │   │   Blog Category
+│   │   │   Blog Tag
+│   │
+│   └───Level Two Menu
+│       │   Site Pages
+│       │   Custom Link
+│       │   User Account Lins
+│       │   Blog Category
+│       │   Blog Tag
+```
 <details>
   <summary>Admin Panel</summary>
   <br>
