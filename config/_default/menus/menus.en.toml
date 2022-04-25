@@ -68,7 +68,7 @@
   name = "Tutorial"
   weight = 50
   identifier = "tutorial"
-  url = "/docs/tutorial/create-a-landing-page/"
+  url = "/docs/tutorial/create-a-homepage/"
   parent = "get-started"
 
 [[main]]
