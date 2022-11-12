@@ -7,7 +7,7 @@ lastmod: 2020-10-06T08:48:23.000Z
 draft: false
 images: []
 menu: {docs: {parent: create-theme}}
-weight: 720
+weight: 730
 toc: true
 ---
 
