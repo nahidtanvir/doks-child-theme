@@ -21,10 +21,10 @@ src
 │   └───Commons
 │   │   │
 │   │   └───breadcrumbs
-│   │   │   │
-│   │   │   └───DefBreadcrumb.svelte
-│   │   │   └───BreadcrumbTwo.svelte
+│   │   │   │   DefBreadcrumb.svelte
+│   │   │   │   BreadcrumbTwo.svelte
 │   │   │       ...
+│   │   │
 │   │   │   footer_menus
 │   │   │   loaders
 │   │   │   main_menus
@@ -39,11 +39,11 @@ src
 │   │   │   social_links
 │   │   │   address_links
 │   │   │   sections_headers
-│   │   │   ...
+│   │       ...
 │   │
 │   └───pages
 │   │   └───blog_pages
-│   │   │   └───DefBlogPage.svelte
+│   │   │   │   DefBlogPage.svelte
 │   │   │       ...
 │   │   │
 │   │   │   post_pages
@@ -57,9 +57,9 @@ src
 │   │   │   survey_pages
 │   │
 │   └───sections
+│   │   │   SectionRender.svelte
 │   │   │   heading
-│   │   │   │
-│   │   │   └───DefHeading.svelte
+│   │   │   │   DefHeading.svelte
 │   │   │       ...
 │   │   │
 │   │   │   content_slider
@@ -70,7 +70,7 @@ src
 │   │   │   count_section
 │   │   │   clients_section
 │   │   │   testimonials_sections
-│   │   │   ...
+│   │       ...
 │
 └───routes
 │   │   +layout.js
