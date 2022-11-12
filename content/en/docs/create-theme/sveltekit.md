@@ -1,19 +1,19 @@
 ---
-title : "SvelteKit"
-description: "Create Theme Using SvelteKit"
-lead: ""
-date: 2020-10-06T08:48:23+00:00
-lastmod: 2020-10-06T08:48:23+00:00
+title: SvelteKit
+description: Create Theme Using SvelteKit
+lead: ''
+date: 2020-10-06T08:48:23.000Z
+lastmod: 2020-10-06T08:48:23.000Z
 draft: false
 images: []
-menu:
-  docs:
-    parent: "create-theme"
+menu: {docs: {parent: create-theme}}
 weight: 720
 toc: true
 ---
+
 ### src
-```
+
+```bash
 src
 │
 └───lib
@@ -82,8 +82,10 @@ src
 │   │   │   +page.js
 │   │   │   +page.svelte
 ```
+
 ### static
-```
+
+```bash
 static
 │
 └───assets
@@ -105,7 +107,9 @@ static
 │   │       ...
 │   │
 ```
+
 #### json file structure
+
 ```json
 {
   "DefFeatures": "Default Features Section",
@@ -113,14 +117,18 @@ static
   "ServicesTabs": "Services Section with Tabs"
 }
 ```
+
 ### .env
+
 ```dotenv
 PUBLIC_SECRET_KEY = 'your-api-key'
 PUBLIC_DATA_SERVER = 'backend-api-route'
 PUBLIC_APP_SERVER = 'deployment-url'
 PUBLIC_DATA_MODE = 'dev-or-prod'
 ```
+
 ### .gitignore
+
 ```gitignore
 .env
 ```
