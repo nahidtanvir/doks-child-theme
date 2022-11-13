@@ -8,7 +8,7 @@ draft: false
 images: []
 type: docs
 menu:
-  create-theme:
+  test:
     parent: "lorem"
 weight: 100
 toc: true

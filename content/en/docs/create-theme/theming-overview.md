@@ -14,11 +14,13 @@ toc: true
 You can use any frontend library or framework to create theme for the CMS. We provide all api endpoints required to make
 a theme. However, we provide template for a few frameworks to make to process easier.
 
+```bash
     project
     ├───src
     ├───static
     ├───.env
     └───.gitignore
+```
 
 ## Src
 
@@ -26,6 +28,7 @@ This folder should only contain layouts, pages and components. There are a numbe
 any number of them. Also, each page types can have their own layouts. The home page is generally always static type.
 The dynamic catch-all route [..slug] takes care of all the other pages and their corresponding layouts.
 
+```bash
     src
     │
     ├───components
@@ -38,6 +41,7 @@ The dynamic catch-all route [..slug] takes care of all the other pages and their
     │   │   layout
     │   │   page
     │   │   [...slug]
+```
 
 ### Components
 

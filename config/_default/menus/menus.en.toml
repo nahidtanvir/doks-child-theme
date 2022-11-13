@@ -72,16 +72,22 @@
   parent = "get-started"
 
 [[main]]
-name = "Components"
-weight = 60
-identifier = "components"
-url = "/docs/references/components/"
+  name = "Components"
+  weight = 60
+  identifier = "components"
+  url = "/docs/references/components/"
 
 [[main]]
-name = "Designs"
-weight = 70
-identifier = "design-overview"
-url = "/docs/block-designs/design-overview/"
+  name = "Designs"
+  weight = 70
+  identifier = "design-overview"
+  url = "/docs/block-designs/design-overview/"
+
+[[main]]
+  name = "Theming"
+  weight = 80
+  identifier = "theme-overview"
+  url = "/create-theme/theme-overview/introduction"
 
 [[social]]
   name = "GitHub"
