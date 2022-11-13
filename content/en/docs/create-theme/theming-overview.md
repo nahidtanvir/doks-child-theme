@@ -15,9 +15,9 @@ You can use any frontend library or framework to create theme for the CMS. We pr
 a theme. However, we provide template for a few frameworks to make to process easier.
 
     project
-    └───src
-    └───static
-    └───.env
+    ├───src
+    ├───static
+    ├───.env
     └───.gitignore
 
 ## Src
@@ -28,13 +28,13 @@ The dynamic catch-all route [..slug] takes care of all the other pages and their
 
     src
     │
-    └───components
+    ├───components
     │   │   Commons
     │   │   micro_views
     │   │   pages
     │   │   sections
     │
-    └───routes
+    ├───routes
     │   │   layout
     │   │   page
     │   │   [...slug]
@@ -64,11 +64,11 @@ The dynamic catch-all route [..slug] takes care of all the other pages and their
 ```bash
     static
     │
-    └───assets
+    ├───assets
     │   │   media/doc
     │   │   style/vendor
     │
-    └───designs
+    ├───designs
     │   │   pages
     │   │   sections
 ```

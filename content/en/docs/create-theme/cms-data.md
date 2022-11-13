@@ -1,7 +1,7 @@
 ---
-title: CMS Data
+title: CMS Data Overview
 description: Learn the structure of the data fetched from CMS
-lead: ''
+lead: All the api endpoint data from the CMS.
 date: 2022-11-12T08:48:23.000Z
 lastmod: 2022-11-12T08:48:23.000Z
 draft: false

@@ -7,7 +7,7 @@ lastmod: 2020-10-06T08:48:23.000Z
 draft: false
 images: []
 menu: {docs: {parent: create-theme}}
-weight: 730
+weight: 770
 toc: true
 ---
 
@@ -16,11 +16,11 @@ toc: true
 ```bash
 src
 │
-└───lib
+├───lib
 │   │
-│   └───Commons
+│   ├───Commons
 │   │   │
-│   │   └───breadcrumbs
+│   │   ├───breadcrumbs
 │   │   │   │   DefBreadcrumb.svelte
 │   │   │   │   BreadcrumbTwo.svelte
 │   │   │       ...
@@ -33,7 +33,7 @@ src
 │   │   │   back_to_top
 │   │   │   error
 │   │
-│   └───micro_views
+│   ├───micro_views
 │   │   │   buttons
 │   │   │   form_fields
 │   │   │   social_links
@@ -41,8 +41,8 @@ src
 │   │   │   sections_headers
 │   │       ...
 │   │
-│   └───pages
-│   │   └───blog_pages
+│   ├───pages
+│   │   ├───blog_pages
 │   │   │   │   DefBlogPage.svelte
 │   │   │       ...
 │   │   │
@@ -56,7 +56,7 @@ src
 │   │   │   survey_pages
 │   │   │   survey_pages
 │   │
-│   └───sections
+│   ├───sections
 │   │   │   SectionRender.svelte
 │   │   │   heading
 │   │   │   │   DefHeading.svelte
@@ -72,13 +72,13 @@ src
 │   │   │   testimonials_sections
 │   │       ...
 │
-└───routes
+├───routes
 │   │   +layout.js
 │   │   +layout.svelte
 │   │   +page.js
 │   │   +page.svelte
 │   │
-│   └───[...slug]
+│   ├───[...slug]
 │   │   │   +page.js
 │   │   │   +page.svelte
 ```
@@ -90,19 +90,19 @@ static
 │
 └───assets
 │   │
-│   └───css
-│   └───image
-│   └───vendor
+│   ├───css
+│   ├───image
+│   ├───vendor
 │
-└───designs
+├───designs
 │   │
-│   └───sections
-│   │   └───about_sections.json
+│   ├───sections
+│   │   ├───about_sections.json
 │   │   └───gallery_sections.json
 │   │       ...
 │   │
-│   └───pages
-│   │   └───blog_pages.json
+│   ├───pages
+│   │   ├───blog_pages.json
 │   │   └───post_pages.json
 │   │       ...
 │   │
