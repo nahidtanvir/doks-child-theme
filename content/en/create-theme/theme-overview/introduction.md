@@ -6,6 +6,7 @@ date: 2022-11-12T08:48:23.000Z
 lastmod: 2022-11-12T08:48:23.000Z
 draft: false
 images: []
+type: docs
 menu: {docs: {parent: create-theme}}
 weight: 100
 toc: true
