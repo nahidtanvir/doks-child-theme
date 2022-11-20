@@ -1,23 +1,4 @@
 [[docs]]
-  name = "Theme Overview"
-  weight = 110
-  identifier = "theme-overview"
-  url = "/create-theme/theme-overview/"
-
-[[docs]]
-  name = "Frontend Farmeworks"
-  weight = 120
-  identifier = "frontend-frameworks"
-  url = "/create-theme/frontend-frameworks/"
-
-[[docs]]
-  name = "CMS Api Endpoints"
-  weight = 130
-  identifier = "cms-api-endpoints"
-  url = "/create-theme/cms-api-endpoints/"
-
-
-[[docs]]
   name = "Prologue"
   weight = 10
   identifier = "prologue"
