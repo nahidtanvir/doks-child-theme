@@ -1,18 +1,18 @@
-[[create-theme]]
+[[docs]]
   name = "Theme Overview"
-  weight = 10
+  weight = 110
   identifier = "theme-overview"
   url = "/create-theme/theme-overview/"
 
-[[create-theme]]
+[[docs]]
   name = "Frontend Farmeworks"
-  weight = 20
+  weight = 120
   identifier = "frontend-frameworks"
   url = "/create-theme/frontend-frameworks/"
 
-[[create-theme]]
+[[docs]]
   name = "CMS Api Endpoints"
-  weight = 30
+  weight = 130
   identifier = "cms-api-endpoints"
   url = "/create-theme/cms-api-endpoints/"
 
